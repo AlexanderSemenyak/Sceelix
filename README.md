@@ -1,3 +1,5 @@
+origin: https://github.com/sceelix/Sceelix
+
 # Sceelix
 
 Sceelix is a standalone, [procedural generation](https://en.wikipedia.org/wiki/Procedural_generation) software for automating 2D/3D content creation using algorithms, rules, and mathematical models.
